@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. aaa
+2. bbb
+3. ccc
+
+* aaa
+* iii
+* uuu
